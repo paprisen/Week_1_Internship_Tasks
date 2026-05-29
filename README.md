@@ -26,7 +26,7 @@ Automated Lead Collection System
    
 2. Google Sheets
    
-3.Zapier
+3. Zapier
 
 ## Workflow Logic
 
@@ -42,15 +42,15 @@ A confirmation email is sent to the user.
 
 ## Benefits
 
-. Saves time
+* Saves time
 
-. Reduces manual work
+* Reduces manual work
 
-. Improves efficiency
+* Improves efficiency
 
- . Faster communication
+* Faster communication
 
- . Better data management
+* Better data management
 
 ## Demo Video
 
