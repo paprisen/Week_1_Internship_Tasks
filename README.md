@@ -7,10 +7,12 @@ Research presentation on the latest AI trends and advancements (2025).The presen
 1. Generative AI (GenAI)
    
 2. Large Language Models (LLMs)
-   
-3. AI Agents
 
-4. AI Ethics
+3. Computer Vision
+   
+4. AI Agents
+
+5. AI Ethics
    
 ## Task 2: Prompt Engineering Practice
 
