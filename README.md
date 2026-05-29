@@ -58,27 +58,27 @@ Video demonstration explaining all completed tasks and project workflow.
 
 ## Tools and Resources Used
 
-1. Canva (Presentation Design)
+* Canva (Presentation Design)
 
-2. Google Docs / Microsoft Word
+* Google Docs / Microsoft Word
 
-3. GitHub (Project Documentation & Submission)
+* GitHub (Project Documentation & Submission)
 
 ## Research Sources
 
-1. Google Scholar
+* Google Scholar
 
-2. ArXiv Research Papers
+* ArXiv Research Papers
 
-3. MIT Technology Review
+* MIT Technology Review
 
-4. OpenAI Resources
+* OpenAI Resources
 
-5. Internet Research Sources
+* Internet Research Sources
 
 ## AI Tools
 
-1. ChatGPT (Research Assistance & Content Generation)
+* ChatGPT (Research Assistance & Content Generation)
 
 # Conclusion
 
